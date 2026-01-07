@@ -1,0 +1,38 @@
+[
+  { 
+    "id": "anxiety", 
+    "remedy_type": "audio", 
+    "file_url": "/static/audio/breathing_90s.mp3",
+    "note": "Short breathing audio (30–90 seconds) and 5-4-3-2-1 grounding instructions." 
+  },
+  { 
+    "id": "sadness", 
+    "remedy_type": "text", 
+    "file_url": "/static/guides/validation_note.txt",
+    "note": "Soft, empathetic audio or prompts like 'It’s okay to feel this'." 
+  },
+  { 
+    "id": "anger", 
+    "remedy_type": "exercise", 
+    "file_url": "/static/guides/venting_space.html",
+    "note": "Physical release exercises and private venting space." 
+  },
+  { 
+    "id": "overwhelmed", 
+    "remedy_type": "text", 
+    "file_url": "/static/guides/tiny_steps.txt",
+    "note": "'Let’s slow this down' messaging and breaking tasks into 1 tiny action." 
+  },
+  { 
+    "id": "tired", 
+    "remedy_type": "audio", 
+    "file_url": "/static/audio/rest_meditation.mp3",
+    "note": "Rest-focused audio and body relaxation guidance." 
+  },
+  { 
+    "id": "numbness", 
+    "remedy_type": "exercise", 
+    "file_url": "/static/guides/sensory_grounding.html",
+    "note": "Sensory-based exercises using touch, sound, or breath." 
+  }
+]
